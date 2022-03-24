@@ -28,8 +28,8 @@ void	print(int	i, int	j)
 
 void	ft_print_comb2(void)
 {
-	int		i;
-	int		j;
+	int	i;
+	int	j;
 
 	i = 0;
 	j = 0;

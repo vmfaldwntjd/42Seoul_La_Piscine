@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include	<unistd.h>
 
 void	process(char *i, char *j, char *k)
 {
@@ -31,7 +31,7 @@ void	process(char *i, char *j, char *k)
 	}
 }
 
-void ft_print_comb(void)
+void	ft_print_comb(void)
 {
 	char	i;
 	char	j;

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+#include	<unistd.h>
 
 int	g_arr[10];
 
@@ -36,7 +36,7 @@ void	print(int index_for_pri, int n)
 
 void	print_seq(int x, int len, int n)
 {
-	int value;
+	int	value;
 
 	if (len == n)
 	{
